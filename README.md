@@ -1,6 +1,6 @@
 # 👋 Merhaba, ben Eda!
 - 🎓 İstatistik ve Bilgisayar Bilimleri öğrencisiyim.
-- 🧠 Şu anda şunları öğreniyorum: Python, R, C#, MATLAB, EViews, SQL.
+- 🧠 Şu anda şunları öğreniyorum: Python, R, C#, SQL, JavaScript.
 - 🎯 Hedefim: Gerçek verilerle çalışan projeler üretmek ve paylaşmak.
 - 📊 Veri bilimi ve yapay zeka projeleri yapıyorum.
 - 📫 Bana ulaş: edademirel13@gmail.com
